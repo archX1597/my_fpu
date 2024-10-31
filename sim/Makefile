@@ -34,7 +34,7 @@ compile:
 sim:	
 	./simv $(mode) -l sim.log
 verdi:
-	verdi -2001 \
+	Verdi-Ultra -2001 \
 	      -ssf *.fsdb \
 	    &
 	    
